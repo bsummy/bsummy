@@ -8,10 +8,9 @@
  * I've spent two summers working for the Chicago Blackhawks - once on the business side & once on the hockey side. :ice_hockey: :goal_net:
 
 ### About My Projects :computer:
- ** NHL **  
+ **NHL**  
 Full stack application to determine the value of NHL transactions, and evaluate team asset classes.
  * [NHL Stats - the repo](nhl_stats)
-
 
  **Sooper**  
  Website to generate charitable donations with Google AdSense. Utilizes data-driven advertisements to drive change and support charity. Built during a 24hr Hackathon, with no prior webdev experience.
