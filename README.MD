@@ -5,11 +5,11 @@
 ### About Me :smile:
  * I was born and raised in Chicago, Illinois. 
  * I'm studying Software Engineering at McGill University in Montreal, Canada. :canada:
- * I spent last summer working for the Chicago Blackhawks as a Data Intern! :ice_hockey: :goal_net:
+ * I've spent two summers working for the Chicago Blackhawks - once on the business side & once on the hockey side. :ice_hockey: :goal_net:
 
 ### About My Projects :computer:
- **NHL Stats**  
- Accessing and storing data from the unofficial NHL Stats API, and using it for hockey analytics!
+ ** NHL **  
+Full stack application to determine the value of NHL transactions, and evaluate team asset classes.
  * [NHL Stats - the repo](nhl_stats)
 
 
