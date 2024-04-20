@@ -14,4 +14,6 @@ Enjoy! :relaxed:
 Bennett Summy <br/>
 <sup> (He/Him) </sup>
 
+[![Bennett's github stats](https://github-readme-stats.vercel.app/api?username=bsummy&count_private=true&show_icons=true&theme=radical&hide_rank=True )](https://github.com/anuraghazra/github-readme-stats)
+
 
